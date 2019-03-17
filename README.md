@@ -39,5 +39,5 @@ Jobs such as Technical consultant, Systems Analyst, Information technology coord
 What do I hope to do after graduation?
 After graduation I would like to, first, go on a nice holiday for a couple of weeks for 2 main reasons. The first is to celebrate graduating, a reward to myself for all the hard work and dedication. The second is to allow myself some time to help with my decision of what to do next. 
 
-! [ ] https://github.com/nicholasknightlowrida/assignment1/blob/master/Screenshot%20Ideal%20Job1.png
+! [ ] https://github.com/nicholasknightlowrida/assignment1/blob/master/ScreenshotIdealJob1.png
 
