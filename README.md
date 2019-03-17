@@ -37,9 +37,7 @@ A job that provides challenges and personal satisfaction. Money would be a facto
 Jobs such as Technical consultant, Systems Analyst, Information technology coordinator interest me so much. Personally, if I was employed in any of the above with good conditions, I would consider having my dream job. 
 
 What do I hope to do after graduation?
-After graduation I would like to, first, go on a nice holiday for a couple of weeks for 2 main reasons. The first is to celebrate graduating, a reward to myself for all the hard work and dedication. The second is to allow myself some time to help with my decision of what to do next. My two main options as I see them at present are: 
-b link:
-https://www.glassdoor.com.au/job-listing/software-developer-punters-paradise-JV_IC2264754_KO0,18_KE19,35.htm?jl=3133210673&ctt=1552635359245
+After graduation I would like to, first, go on a nice holiday for a couple of weeks for 2 main reasons. The first is to celebrate graduating, a reward to myself for all the hard work and dedication. The second is to allow myself some time to help with my decision of what to do next. 
 
-![] images/https://www.glassdoor.com.au/job-listing/software-developer-punters-paradise-JV_IC2264754_KO0,18_KE19,35.htm?jl=3133210673&ctt=1552635359245
+![]https://github.com/nicholasknightlowrida/assignment1/blob/master/Screenshot%20Ideal%20Job1.png
 
